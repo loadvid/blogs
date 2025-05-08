@@ -1,6 +1,6 @@
 # Top 5 S3-Compatible Object Storage Providers in 2025
 
-tags: ['S3 Compatible Object Storag', 'cloud object storage alternatives', 'cloud storage providers comparison']
+tags: ['S3 Compatible Object Storage', 'cloud object storage alternatives', 'cloud storage providers comparison']
 date: '2024-05-08'
 ---
 
