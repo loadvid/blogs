@@ -33,5 +33,5 @@ console.log(hello);
 | A2    | B2    | C2    |
 
 ---
-![abc](https://images.pexels.com/photos/30847989/pexels-photo-30847989/free-photo-of-modern-architecture-at-v-a-dundee-museum-scotland.jpeg)
+![Ảnh ví dụ](images/example.jpg)
 [Link tham khảo](https://example.com)
