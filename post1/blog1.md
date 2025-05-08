@@ -1,10 +1,10 @@
-# Tiêu đề bài viết
+# Top 5 S3-Compatible Object Storage Providers in 2025 (Performance & Cost Compared)
 
-tags: ['markdown', 'styling', 'tutorial']
+tags: ['S3 Compatible Object Storag', 'cloud object storage alternatives', 'cloud storage providers comparison']
 date: '2024-05-08'
 ---
 
-## Giới thiệu
+## Introduce
 Cloud object storage that's compatible with Amazon S3 is essential for modern apps—especially those handling AI/ML workloads, backups, and large-scale analytics. This 2025 benchmark compares top S3-compatible providers across cost, data transfer fees, performance, and features.
 
 
