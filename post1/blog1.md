@@ -1,37 +1,15 @@
-# Tiêu đề bài viết lớn
+# Tiêu đề bài viết
+
 tags: ['markdown', 'styling', 'tutorial']
+date: '2024-05-08'
+---
 
 ## Giới thiệu
-
-Đây là đoạn văn bản giới thiệu với **text in đậm** và *text in nghiêng*.
+Nội dung bài viết...
 
 ### Code ví dụ
-
 ```javascript
-// Comment in code
-const hello = "world";
-console.log(hello);
+// Code examples
 ```
 
-> Đây là một blockquote để highlight nội dung quan trọng
-
-#### Danh sách có thứ tự
-
-1. Item thứ nhất
-2. Item thứ hai
-3. Item thứ ba
-
-#### Danh sách không thứ tự
-
-- Mục một
-- Mục hai
-- Mục ba
-
-| Cột 1 | Cột 2 | Cột 3 |
-|-------|-------|-------|
-| A1    | B1    | C1    |
-| A2    | B2    | C2    |
-
----
-![Ảnh ví dụ](images/blog1.jpeg)
-[Link tham khảo](https://example.com)
+Bây giờ nội dung blog sẽ được hiển thị đẹp hơn và có cấu trúc rõ ràng hơn. Bạn có muốn tôi tạo một file markdown mẫu để test không?
