@@ -1,19 +1,39 @@
-# Tiêu đề bài viết 1
-tags: ['tag1', 'tag2', 'tag3']
+# Tiêu đề bài viết lớn
+tags: ['markdown', 'styling', 'tutorial']
 
-Nội dung bài viết ở đây...
+## Giới thiệu
 
-## Tiêu đề phụ
-
-- Danh sách item 1
-- Danh sách item 2
+Đây là đoạn văn bản giới thiệu với **text in đậm** và *text in nghiêng*.
 
 ### Code ví dụ
 
 ```javascript
-console.log('Hello world');
+// Comment in code
+const hello = "world";
+console.log(hello);
 ```
 
-**Text in đậm** và *text in nghiêng*
+> Đây là một blockquote để highlight nội dung quan trọng
 
-[Link tới trang khác](https://example.com)
+#### Danh sách có thứ tự
+
+1. Item thứ nhất
+2. Item thứ hai
+3. Item thứ ba
+
+#### Danh sách không thứ tự
+
+- Mục một
+- Mục hai
+- Mục ba
+
+| Cột 1 | Cột 2 | Cột 3 |
+|-------|-------|-------|
+| A1    | B1    | C1    |
+| A2    | B2    | C2    |
+
+---
+
+![Ảnh minh họa](https://images.pexels.com/photos/30847989/pexels-photo-30847989/free-photo-of-modern-architecture-at-v-a-dundee-museum-scotland.jpeg)
+
+[Link tham khảo](https://example.com)
