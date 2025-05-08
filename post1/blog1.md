@@ -33,5 +33,5 @@ console.log(hello);
 | A2    | B2    | C2    |
 
 ---
-![Ảnh ví dụ](images/example.jpg)
+![Ảnh ví dụ](images/blog1.jpeg)
 [Link tham khảo](https://example.com)
